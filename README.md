@@ -17,3 +17,6 @@
 
 * To suppport many users I would hasve to improve the quality of the code so that it is robust and easily scalable.
 * Similarly, I would have to invest in test automation and quality assurance early on so that the software is maintainble and developed in a timely and economic manner.
+
+<h1> Final Remark </h1>
+* I still have a lot to learn...
