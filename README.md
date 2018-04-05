@@ -1,7 +1,7 @@
 
 <h1> Reflection </h1>
 
-* I have never used React Native let alone React before so it took me such a long time trying to fix trivial bugs
+* I have never used React Native let alone React before so this is my attempt at building a frontend side of mobile app in 3 days.
 * I am not proud of this spaghetti code. I had to manually render between 2 pages using conditional rendering instead of importing navigator because I kept running to errors.
 * After doing this challenge, I realized how important mock API is for concurrent effort of building an app from front-end and back-end. One method is JEST and other is Axio, but I kept running into bugs again so I ended storing my API in the state, which is not suggested.
 * At first, I tried to use React Native GeoLocation in order to obtain latitude and longitude. However, I realized that in the context of this question, it doesn't make sense for me to use real coordinates only then to mock the progressively tracking user location. I wasted a lot of time here.
