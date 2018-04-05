@@ -1,7 +1,6 @@
 
 <h1> Reflection </h1>
 
-* You guys are probably looking for someone who has more experience even for an entry level job. 
 * I have never used React Native let alone React before so it took me such a long time trying to fix trivial bugs
 * I am not proud of this spaghetti code. I had to manually render between 2 pages using conditional rendering instead of importing navigator because I kept running to errors.
 * After doing this challenge, I realized how important mock API is for concurrent effort of building an app from front-end and back-end. One method is JEST and other is Axio, but I kept running into bugs again so I ended storing my API in the state, which is not suggested.
